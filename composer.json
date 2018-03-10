@@ -1,0 +1,21 @@
+{
+  "name": "beili/dingRobot",
+  "description": "钉钉机器人php库",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "beili",
+      "email": "961902202@qq.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.5"
+  },
+  "autoload":{
+    "psr-4":{
+      "beili\\":"beili/src/"
+    }
+  }
+}
