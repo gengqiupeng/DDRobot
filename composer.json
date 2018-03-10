@@ -15,7 +15,7 @@
   },
   "autoload":{
     "psr-4":{
-      "beili\\":"beili/src/"
+      "beili\\":"src/"
     }
   }
 }
